@@ -1,0 +1,49 @@
+body{
+    background-color: #263238;
+}
+
+.pow{
+    color:white;
+    font-size: 80px;
+}
+
+.pow span{
+    color: #61A22E;
+}
+
+#ex{
+    padding-top: 5px;
+    color:white;
+    font-size: 15px;
+}
+
+#btn1{
+    margin-right: 15px;
+    background-color: #61A22E;
+    color: white;
+    border: none;
+    padding: 12px 15px;
+}
+#btn1:hover{
+    background-color: white;
+    color: #61A22E;
+    font-weight: bold;
+    border: #61A22E;
+}
+
+#btn2{
+    background-color: #263238;
+    border: white 1px solid;
+    color: white;
+    padding: 12px 25px;
+}
+#btn2:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+#p1{
+    color: white;
+    padding-top: 12px;
+}

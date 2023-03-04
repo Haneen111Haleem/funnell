@@ -1,0 +1,39 @@
+#p21{
+    color: white;
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.hi{
+    color: white;
+}
+
+#btn1{
+    margin-right: 15px;
+    background-color: #61A22E;
+    color: white;
+    border: none;
+    padding: 12px 15px;
+}
+#btn1:hover{
+    background-color: white;
+    color: #61A22E;
+    font-weight: bold;
+    border: #61A22E;
+}
+
+#btn2{
+    background-color: #263238;
+    border: white 1px solid;
+    color: white;
+    padding: 12px 25px;
+}
+#btn2:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+#p22{
+    color: white;
+}

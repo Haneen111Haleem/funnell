@@ -1,0 +1,57 @@
+.nevo{
+    background-color: #263238;
+    height: 9vh;
+}
+
+#get{
+    background-color: #61A22E;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px; 
+    display: inline; 
+    width: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+#get:hover{
+    background-color: white;
+    color: #61A22E;
+    border: #61A22E;
+    width: 140px;
+}
+
+#why{
+    color: white;
+}
+
+.links{
+    font-size: 50px;
+    color: #a2a7a9;
+}
+
+.links1{
+    border: none;
+    background-color: #263238;
+    color: #a2a7a9;
+}
+.links:hover, .links1:hover{
+    font-weight: bold;
+    color: #a2a7a9;
+}
+
+#basic-navbar-nav{
+    background-color: #263238;
+    margin: auto;
+    padding-left: 20px;
+}
+
+.title{
+    color: #61A22E;
+}
+.btns{
+    background-color: #61A22E;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}

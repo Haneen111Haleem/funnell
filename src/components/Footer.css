@@ -1,0 +1,35 @@
+#back{
+    padding:60px 0px 40px 0px;
+    background-color:black ;
+    color:white;
+}
+.list{
+    list-style-type: none;
+    color: #61A22E;
+    font-size: 18px;
+}
+.list li:hover{
+    list-style-type: none;
+    color: white;
+}
+.list h1{
+    color: white;
+    font-size: 20px;
+}
+#white{
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+#mail{
+    text-decoration: none;
+    color: #61A22E;
+    font-size: 16px;
+}
+
+#mail:hover{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+}
